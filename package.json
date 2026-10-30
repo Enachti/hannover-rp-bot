@@ -1,0 +1,23 @@
+{
+
+  "name": "hannover-rp-bot",
+
+  "version": "1.0.0",
+
+  "description": "Discord Bot für Hannover RP",
+
+  "main": "index.js",
+
+  "scripts": {
+
+    "start": "node index.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "^14.21.0"
+
+  }
+
+}
